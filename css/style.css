@@ -465,8 +465,9 @@
 =========================== */
 
 #services-part{
-    margin-top: 150px;
-    margin-bottom: 100px;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    background: #f5f5f5;
 }
 
 .service-title-row{
